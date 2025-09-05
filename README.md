@@ -21,13 +21,13 @@ Here is a list of all the TODO's to make life a bit easier:
 
 ### Styling
 
-- [ ] Add the 'Roboto' font from Google fonts and add it as a global CSS var called `--font-primary`.
+- [x] Add the 'Roboto' font from Google fonts and add it as a global CSS var called `--font-primary`.
 - [ ] Make application responsive. It is already for the most part, but it is not optimal for smaller screens.
 - [ ] Create separate styles for .primary and .secondary variants of the button component. Use the brand color #413ef7 for both of these buttons.
 
 ### React
 
-- [ ] Write a custom hook to set form fields in a more generic way.
+- [x] Write a custom hook to set form fields in a more generic way.
 - [ ] Fetch addresses based on houseNumber and postCode. Do not introduce any additional 3rd party libraries to do this.
 - [ ] Create generic `<Form />` component to display form rows, legend and a submit button.
 - [ ] Create an `<ErrorMessage />` component for displaying an error message.
